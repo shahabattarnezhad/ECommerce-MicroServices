@@ -1,4 +1,4 @@
-﻿using Ecommerce.SharedLibrary.Logs;
+﻿using Ecommerce.SharedLibrary.Loggings;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
